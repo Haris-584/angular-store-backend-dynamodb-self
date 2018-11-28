@@ -1,0 +1,1 @@
+# angular-store-backend-dynamodb-self
